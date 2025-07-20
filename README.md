@@ -1,6 +1,6 @@
-# Trafik Kazaları Analizi: İngiltere (2000–2016)
+# Trafik Kazaları Analizi: İngiltere
 
-Bu proje, İngiltere'de 2000–2016 yılları arasında meydana gelen trafik kazalarını analiz etmek amacıyla hazırlanmıştır. Çalışma kapsamında 
+Bu proje, İngiltere'de 2000–2014 yılları arasında meydana gelen trafik kazalarını analiz etmek amacıyla hazırlanmıştır. Çalışma kapsamında 
 kazaların zaman içindeki değişimi, mevsimsel etkiler, kırsal ve kentsel farklılıklar gibi faktörler incelenmiştir.
 
 ## Kullanılan Veri Setleri
